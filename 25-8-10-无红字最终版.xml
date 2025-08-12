@@ -35,6 +35,7 @@
         <li>orion.hospitality</li>
         <li>aoba.exosuit.framework</li>
         <li>dws.functionalammunition.library</li>
+        <li>telefonmast.graphicssettings</li>
         <li>humblecoder.beginning.map</li>
         <li>m00nl1ght.mappreview</li>
         <li>m00nl1ght.geologicallandforms</li>
@@ -78,6 +79,7 @@
         <li>mlie.relevantstatsindescription</li>
         <li>andromeda.usefulmarks</li>
         <li>andromeda.legendaryboss</li>
+        <li>owlchemist.toggleablereadouts</li>
         <li>humblecoder.beginning.storyteller</li>
         <li>humblecoder.function.alogrithmimprovement</li>
         <li>mlie.foodpoisoningstackfix</li>
@@ -133,7 +135,6 @@
         <li>mlie.pawneducation</li>
         <li>mehni.pickupandhaul</li>
         <li>erdelf.prisonerransom</li>
-        <li>hatti.qualitybuilder</li>
         <li>weilbyte.snapout</li>
         <li>cn.speakup.ttyet</li>
         <li>balistafreak.stopdropandroll</li>
@@ -143,6 +144,9 @@
         <li>redmattis.biggergravship</li>
         <li>teiwaz.uws</li>
         <li>rer.prisonerexchange</li>
+        <li>arandomkiwi.guardsforme</li>
+        <li>oels.multireinstall</li>
+        <li>hatti.qualitybuilder</li>
         <li>humblecoder.function.other</li>
         <li>mlie.showmodupdates</li>
         <li>marvinkosh.sometimesraidsgowrong</li>
@@ -151,16 +155,17 @@
         <li>humblecoder.factionsandrace</li>
         <li>fxz.solaris.ratkinracemod.odyssey</li>
         <li>bbb.ratkinweapon.morefailure</li>
+        <li>fxz.ratkinanomaly.update</li>
+        <li>eoralmilk.ratkingeneexpanded</li>
+        <li>oark.ratkinfaction.oberoniaaurea</li>
         <li>melondove.wolfeinrace</li>
         <li>ancot.wolfeinracegenepatch</li>
         <li>ancot.ancotlibrary</li>
         <li>ancot.kiirorace</li>
         <li>ancot.kiiroracegenepatch</li>
         <li>ancot.milirarace</li>
-        <li>oark.ratkinfaction.oberoniaaurea</li>
         <li>fluffy.followme</li>
         <li>rooandgloomy.dragonianracemod</li>
-        <li>arandomkiwi.guardsforme</li>
         <li>humblecoder.composite</li>
         <li>slimesenpai.endlessgrowth</li>
         <li>issaczhuang.showmechanoidweapon</li>
@@ -186,6 +191,7 @@
         <li>vanillaexpanded.vcookehaute</li>
         <li>vanillaexpanded.vcookestews</li>
         <li>vanillaexpanded.vcookesushi</li>
+        <li>xmb.ancienturbanruins.mo</li>
         <li>humblecoder.thing</li>
         <li>hailuan.gravshipexpanded</li>
         <li>asf.deepstorage</li>
@@ -224,6 +230,7 @@
         <li>darknote.bunkbeds</li>
         <li>nekoemi.loftbed</li>
         <li>bbbbilly.makereinforcedbarrel</li>
+        <li>harkon.veaddon.vanillaexpandedextraembrasures</li>
         <li>humblecoder.thing.energyandelectricity</li>
         <li>meltup.advancedpowerplus</li>
         <li>humblecoder.thing.armament</li>
@@ -294,7 +301,6 @@
         <li>owlchemist.simplefx.splashes</li>
         <li>ponpeco.pphair</li>
         <li>co.uk.epicguru.whatsthatmod</li>
-        <li>owlchemist.toggleablereadouts</li>
         <li>owlchemist.toggleableshields</li>
         <li>com.yayo.yayoani.continued</li>
         <li>ancot.kiirofacialanimation</li>
@@ -395,7 +401,6 @@
         <li>zh.sumika.overflowingflowers</li>
         <li>rwzh.chinesepack.pawneducation</li>
         <li>chinesepackage.prisonerransom</li>
-        <li>rwzh.chinesepack.qualitybuilder</li>
         <li>zh.rtsolarflareshield.sklm</li>
         <li>zh.mzmgow.rebuild</li>
         <li>rwzh.chinesepack.rimefeller</li>
@@ -432,6 +437,11 @@
         <li>chen.uinotincluded.zh</li>
         <li>huanggua.seekiworksmod.no17.zh</li>
         <li>rwzh.chinesepack.standalonehotspring</li>
+        <li>tinygrox.chs.graphicssettings</li>
+        <li>hours.usefulmarks.zh</li>
+        <li>jm.disstynan</li>
+        <li>zh.harkon.veaddon.vanillaexpandedextraembrasures</li>
+        <li>rwzh.chinesepack.qualitybuilder</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
