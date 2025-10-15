@@ -98,7 +98,6 @@
         <li>dvs.norandomrelations</li>
         <li>roolo.runandgun.kotobike</li>
         <li>dhultgren.smarterconstruction</li>
-        <li>kearril.choosewheretoland</li>
         <li>humblecoder.function.operationimprovement</li>
         <li>brrainz.rangefinder</li>
         <li>falconne.bwm</li>
@@ -135,18 +134,20 @@
         <li>krafs.levelup</li>
         <li>erdelf.minifyeverything</li>
         <li>mlie.pawneducation</li>
+        <li>mehni.pickupandhaul</li>
         <li>erdelf.prisonerransom</li>
         <li>weilbyte.snapout</li>
         <li>cn.speakup.ttyet</li>
         <li>balistafreak.stopdropandroll</li>
         <li>frozensnowfox.filthvanisheswithrainandtime</li>
+        <li>memegoddess.replacestuff</li>
         <li>telardo.romanceontherim</li>
         <li>redmattis.biggergravship</li>
         <li>teiwaz.uws</li>
         <li>rer.prisonerexchange</li>
         <li>arandomkiwi.guardsforme</li>
         <li>oels.multireinstall</li>
-        <li>kunogid.friendflytogether</li>
+        <li>hatti.qualitybuilder</li>
         <li>puremj.mjrimmods.storagerefillhysteresis</li>
         <li>humblecoder.function.other</li>
         <li>mlie.showmodupdates</li>
@@ -210,6 +211,7 @@
         <li>rashomcree.odyssey.orbitalplatforms</li>
         <li>ratys.rtsolarflareshield</li>
         <li>ravermeil.rkevasuit</li>
+        <li>rimfridge.kv.rw</li>
         <li>smashphil.dropspot</li>
         <li>gt.sam.basicdoubledoors</li>
         <li>rebuild.cotr.doorsandcorners</li>
@@ -231,17 +233,15 @@
         <li>nekoemi.loftbed</li>
         <li>bbbbilly.makereinforcedbarrel</li>
         <li>harkon.veaddon.vanillaexpandedextraembrasures</li>
-        <li>amch.moresleepaccelerators</li>
         <li>smalltanks.byniki</li>
-        <li>rimfridge.kv.rw</li>
+        <li>sakura.exosuit.ronin</li>
+        <li>amch.moresleepaccelerators</li>
         <li>aoba.tent</li>
-        <li>mlie.gestaltengine</li>
         <li>humblecoder.thing.energyandelectricity</li>
         <li>meltup.advancedpowerplus</li>
         <li>humblecoder.thing.armament</li>
         <li>chengyingjian.lan</li>
         <li>teiwaz.couw</li>
-        <li>sakura.exosuit.ronin</li>
         <li>humblecoder.thing.foodanddrink</li>
         <li>sunsetmoderteam.rottenfood</li>
         <li>tw.bbqs.barbecue.star</li>
@@ -263,6 +263,7 @@
         <li>demrenus.pcr</li>
         <li>fed1splay.pawntargetfix</li>
         <li>petetimessix.simplesidearms</li>
+        <li>frozensnowfox.complexjobs</li>
         <li>frozensnowfox.nodefaultshelfstorage</li>
         <li>memegoddess.searchanddestroy</li>
         <li>biotech.patch.chip.wwskyon</li>
@@ -275,9 +276,10 @@
         <li>gravshipto.spaceship</li>
         <li>jalapenolabs.rimworld.fishingisfun</li>
         <li>more.mines.asteroid</li>
-        <li>mehni.pickupandhaul</li>
-        <li>frozensnowfox.complexjobs</li>
-        <li>hatti.qualitybuilder</li>
+        <li>kunogid.friendflytogether</li>
+        <li>kearril.choosewheretoland</li>
+        <li>cedaro.pinyinquicksearch</li>
+        <li>frozensnowfox.betterexplorationloot</li>
         <li>humblecoder.medicine</li>
         <li>vat.epoeforked</li>
         <li>adamas.hospital</li>
@@ -451,7 +453,6 @@
         <li>hours.usefulmarks.zh</li>
         <li>jm.disstynan</li>
         <li>zh.harkon.veaddon.vanillaexpandedextraembrasures</li>
-        <li>zh.hlx.gestaltengine</li>
         <li>rwzh.chinesepack.qualitybuilder</li>
     </activeMods>
     <knownExpansions>
